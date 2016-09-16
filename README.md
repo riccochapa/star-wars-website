@@ -1,3 +1,5 @@
-# star-wars-website
+# Star Wars Demo
 
-star wars website created via express tutorial
+Used to build application:
+
+ES2015+ JavaScript, Express.js, Node.js, Bootstrap, EJS, HTML, JQuery, CSS3
